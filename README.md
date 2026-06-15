@@ -39,7 +39,6 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | EmailRep | Free API to query email reputation and report malicious senders | none | Yes | [Link!](https://blog.sublimesecurity.com/emailrep-query-and-report) | Free |
 | emergingthreats.net | Domain / IP intelligence and reputation | `apiKey` | Yes | [Link!](http://apidocs.emergingthreats.net/) |?|
 | Farsight DNSDB Passive DNS | Passive DNS and more | `apiKey` | Yes | [Link!](https://api.dnsdb.info/) |?|
-| Fireeye iSight | Commercial Threat Intel  | `apiKey` | Yes | [Link!](https://docs.fireeye.com/iSight/index.html#/) |Commercial|
 | FIRST.org | Incident Response Teams API | `none` | Yes | [Link!](https://api.first.org/) |?|
 | Flashpoint Intel | Threat Intel | `apiKey` | Yes | [Link!](https://www.flashpoint-intel.com/api/) |?|
 | Flexera | Vuln Management | `apiKey` | Yes | [Link!](http://helpnet.flexerasoftware.com/svm/api/Default.htm) |?|
@@ -67,7 +66,6 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | Pentestnet | Vuln Scanner  | `apiKey` | Yes | [Link!](https://pentestnet.com/api-docs) |Commercial|
 | Phishtank |  | `?` | Yes | [Link!](http://www.phishtank.com/developer_info.php) |?|
 | ProxySpace | Proxy servers, proxy judge and IP geolocation | None | Yes | [Link!](https://proxyspace.pro) |Free|
-| CyberBriefing | Cybersecurity threat intelligence API — 2.7M+ historical articles (2007-2023), full-text search, CVE context, AI-generated briefings | `apiKey` | Yes | [Link!](https://cyberbriefing.info/docs) |Free/Commercial|
 | Pulsedive | Free threat intelligence platform ingesting over 50 OSINT feeds and user submissions. | `apiKey` | Yes | [Link!](https://pulsedive.com/api/) |Both|
 | Qualys SSLLabs | Test SSL and more | `apiKey` | Yes | [Link!](https://www.ssllabs.com/projects/ssllabs-apis/) |?|
 | Spamhaus | Domain / IP intelligence and reputation | `?` | Yes | [Link!](https://www.spamhaus.org/zen/) |?|
